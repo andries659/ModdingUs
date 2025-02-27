@@ -2,4 +2,4 @@
 
 Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if you want a more updated base game <i>(releasing in the upcoming months)</i>.
 
-This version (<i>v2025.2.24</i>) will be probably the last build by Pietro, all the next builds will be coded fully by <color=#A020F0>AndriesWorks</color>.
+This version (<i>v2025.2.24</i>) will be probably the last build by Pietro, all the next builds will be coded fully by <color=#3283a8>AndriesWorks</color>.
