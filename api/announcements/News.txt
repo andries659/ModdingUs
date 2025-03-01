@@ -5,4 +5,4 @@ But if you can migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link>
 
 There will also be a <b><i>few</i></b> new coming changes. So buckle up, and get ready to blast off!
 
--<color=#3283a8>Andries</color>
+- <color=#3283a8>Andries</color>
