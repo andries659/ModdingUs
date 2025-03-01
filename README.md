@@ -67,8 +67,11 @@ In the event of a formal request for the removal of the "Submerged" map by devel
 You can Contact us at: <a href="mailto:lorenzogamer398@gmail.com" style="color:blue;">lorenzogamer398@gmail.com</a>
 
 # Modding Us Credits
-- Project Lead and Developer
+- Project Owner (Previously)
   - [Pietro](https://www.youtube.com/@pietro420)
+
+- Project Lead and Developer
+  - [Andries](https://github.com/andries659)
 
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
