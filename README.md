@@ -1,6 +1,6 @@
 > ### Regarding this mod
 
-Modding Us will get scraped soon, but some people will still keep the servers online and maintain the game!
+Modding Us will NOT get scraped, as I will still keep the servers online and maintain the game!
 
 Migrate to [Starlight](https://discord.gg/adXeB8zvRb) if you want a more updated base game (releasing in the upcoming months). 
 
